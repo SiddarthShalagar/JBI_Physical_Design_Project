@@ -28,4 +28,20 @@ This project demonstrates complete ASIC Physical Design flow implementation for 
 - Timing optimization
 - Clock tree implementation
 - TCL automation
+## Screenshots
 
+### Floorplan
+Add image here
+
+### Placement
+Add image here
+
+### CTS
+Add image here
+
+### Routing
+Add image here
+
+## Note
+
+This repository is created for learning and portfolio purposes only.
